@@ -1,0 +1,6 @@
+[package]
+name = "xlog"
+version = "0.1.0"
+authors = ["wangsijie <wangsijie@bytedance.com>"]
+
+[dependencies]
